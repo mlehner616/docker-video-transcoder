@@ -1,0 +1,4 @@
+KEYDB.cfg
+libaacs.dll
+*.md
+!README*.md
